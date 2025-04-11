@@ -23,7 +23,7 @@ El script realiza los siguientes pasos:
 
 1.  **Clone this repository** (if you haven't already) to your local machine:
     ```bash
-    git clone https://github.com/MohamedAmineRami/CF_API_Integration-.git>
+    git clone https://github.com/MohamedAmineRami/CF_API_Integration-.git
     cd CF_API_Integration-
     ```
     
