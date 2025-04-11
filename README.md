@@ -21,7 +21,7 @@ El script realiza los siguientes pasos:
   
 ## Setup and Usage
 
-1.  **Clone this repository** (if you haven't already) to your local machine:
+1.  **Clone este repositorio** en su máquina local:
     ```bash
     git clone https://github.com/MohamedAmineRami/CF_API_Integration-.git
     cd CF_API_Integration-
