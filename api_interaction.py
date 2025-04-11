@@ -31,7 +31,7 @@ try:
     web_token = data_signin.get("data", {}).get("web_token")
 
     if web_token:
-        print(f"\nweb_token btenido con éxito : {web_token}")
+        print(f"\nweb_token Obtenido con éxito : {web_token}")
 
         # --- 2. Check Portal User (GET request with the token) ---
         # Authorization header empty
